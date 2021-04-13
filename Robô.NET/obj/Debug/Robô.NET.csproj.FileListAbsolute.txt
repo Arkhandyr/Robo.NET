@@ -1,0 +1,14 @@
+C:\Users\Arkhandyr\source\repos\Robô.NET\Robô.NET\bin\Debug\Robô.NET.exe.config
+C:\Users\Arkhandyr\source\repos\Robô.NET\Robô.NET\bin\Debug\Robô.NET.exe
+C:\Users\Arkhandyr\source\repos\Robô.NET\Robô.NET\bin\Debug\Robô.NET.pdb
+C:\Users\Arkhandyr\source\repos\Robô.NET\Robô.NET\obj\Debug\Robô.NET.csprojAssemblyReference.cache
+C:\Users\Arkhandyr\source\repos\Robô.NET\Robô.NET\obj\Debug\Robô.NET.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\source\repos\Robô.NET\Robô.NET\obj\Debug\Robô.NET.exe
+C:\Users\Arkhandyr\source\repos\Robô.NET\Robô.NET\obj\Debug\Robô.NET.pdb
+C:\Users\victo\Downloads\Robo.NET-main\Robo.NET-main\Robô.NET\bin\Debug\Robô.NET.exe.config
+C:\Users\victo\Downloads\Robo.NET-main\Robo.NET-main\Robô.NET\bin\Debug\Robô.NET.exe
+C:\Users\victo\Downloads\Robo.NET-main\Robo.NET-main\Robô.NET\bin\Debug\Robô.NET.pdb
+C:\Users\victo\Downloads\Robo.NET-main\Robo.NET-main\Robô.NET\obj\Debug\Robô.NET.csprojAssemblyReference.cache
+C:\Users\victo\Downloads\Robo.NET-main\Robo.NET-main\Robô.NET\obj\Debug\Robô.NET.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Robo.NET-main\Robo.NET-main\Robô.NET\obj\Debug\Robô.NET.exe
+C:\Users\victo\Downloads\Robo.NET-main\Robo.NET-main\Robô.NET\obj\Debug\Robô.NET.pdb
